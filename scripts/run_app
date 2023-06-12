@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -itd --name war-roni -p 80:80 nginx:latest
